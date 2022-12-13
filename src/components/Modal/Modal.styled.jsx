@@ -12,9 +12,11 @@ export const Overlay = styled.div`
   background-color: rgba(0, 0, 0, 0.8);
   z-index: 1;
 `;
+
 export const ModalBox = styled.div`
   width: 1000px;
 `;
+
 export const ModalImg = styled.img`
   width: 100%;
   height: 560px;

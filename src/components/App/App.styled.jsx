@@ -12,6 +12,7 @@ export const Message = styled.p`
   text-align: center;
   font-size: 30px;
 `;
+
 export const MessageQuery = styled.span`
   color: red;
 `;

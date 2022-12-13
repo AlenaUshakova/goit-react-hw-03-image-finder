@@ -18,6 +18,7 @@ export const SearchbarBox = styled.header`
   box-shadow: 0px 2px 4px -1px rgba(0, 0, 0, 0.2),
     0px 4px 5px 0px rgba(0, 0, 0, 0.14), 0px 1px 10px 0px rgba(0, 0, 0, 0.12);
 `;
+
 export const SearchForm = styled.form`
   display: flex;
   align-items: center;
@@ -45,6 +46,7 @@ export const SearchFormBtn = styled.button`
     opacity: 1;
   }
 `;
+
 export const SearchFormBtnLabel = styled.span`
   position: absolute;
   width: 1px;
